@@ -7,7 +7,6 @@ from torch import nn
 import matplotlib.pyplot as plt
 
 
-
 #データ読み込み
 bs=128 #batch size
 
